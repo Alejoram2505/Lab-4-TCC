@@ -11,4 +11,4 @@ El repositorio incluye el codigo para el problema 1 del laboratorio.
 
 
 ## Video de los programas.
-[Ver Explicación](link del video)
+https://youtu.be/BCxEqYM6L6c
